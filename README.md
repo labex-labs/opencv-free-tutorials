@@ -6,13 +6,13 @@
 
 OpenCV is a library of programming functions mainly aimed at real-time computer vision. Originally developed by Intel, it was later supported by Willow Garage then Itseez. The library is cross-platform and free for use under the open-source BSD license.
 
-|   Index | Name                              | Difficulty   | Tutorial                                                                                   |
-|---------|-----------------------------------|--------------|--------------------------------------------------------------------------------------------|
-|       1 | 📖 Getting Started with Images     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/opencv-getting-started-with-images-8438)      |
-|       2 | 📖 Basic Operations on Image       | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/opencv-basic-operations-on-image-67174)       |
-|       3 | 📖 Getting Started with Videos     | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/opencv-getting-started-with-videos-14766)     |
-|       4 | 📖 Arithmetic Operations on Images | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/opencv-arithmetic-operations-on-images-38502) |
-|       5 | 📖 Lab Working with Color Spaces   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/opencv-lab-working-with-color-spaces-21417)   |
+|   Index | Name                                                                                                         | Difficulty   | Tutorial Link                                                                     |
+|---------|--------------------------------------------------------------------------------------------------------------|--------------|-----------------------------------------------------------------------------------|
+|       1 | [📖 Getting Started with Images](https://labex.io/tutorials/opencv-getting-started-with-images-8438)          | ★☆☆          | [🔗 View](https://labex.io/tutorials/opencv-getting-started-with-images-8438)      |
+|       2 | [📖 Basic Operations on Image](https://labex.io/tutorials/opencv-basic-operations-on-image-67174)             | ★☆☆          | [🔗 View](https://labex.io/tutorials/opencv-basic-operations-on-image-67174)       |
+|       3 | [📖 Getting Started with Videos](https://labex.io/tutorials/opencv-getting-started-with-videos-14766)         | ★☆☆          | [🔗 View](https://labex.io/tutorials/opencv-getting-started-with-videos-14766)     |
+|       4 | [📖 Arithmetic Operations on Images](https://labex.io/tutorials/opencv-arithmetic-operations-on-images-38502) | ★☆☆          | [🔗 View](https://labex.io/tutorials/opencv-arithmetic-operations-on-images-38502) |
+|       5 | [📖 Lab Working with Color Spaces](https://labex.io/tutorials/opencv-lab-working-with-color-spaces-21417)     | ★☆☆          | [🔗 View](https://labex.io/tutorials/opencv-lab-working-with-color-spaces-21417)   |
 
 ## More Free Tutorials
 
